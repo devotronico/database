@@ -1,0 +1,45 @@
+﻿/**{margin 0; padding 0;}*/
+
+/*
+.container{ 
+    border: 1px solid black; }
+
+.alert{
+   
+    border: 1px solid blue; }
+*/
+
+
+ .ASC::after{
+    content: ' ▼';
+    color: yellow;
+    
+}
+
+ .DESC::after{
+   
+    content: ' ▲';
+    color: yellow;
+ 
+}
+
+.test{
+text-decoration: line-through;
+}
+
+
+
+/*
+.row{
+ border: 1px solid black;
+    background-color: red;
+    color: white;
+}*/
+/*
+
+thead .DESC{
+ font-size: 32px;
+    color: yellow;
+ 
+    
+}
